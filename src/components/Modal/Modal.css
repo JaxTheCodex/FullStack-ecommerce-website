@@ -1,0 +1,10 @@
+.signup{
+    background-image: url('/src/assets/background/Background.jpg');
+    background-size: cover;
+    background-position: top;
+    height: 100vh;
+}
+.background{
+    background-color: #ffffffc3;
+}
+ 
